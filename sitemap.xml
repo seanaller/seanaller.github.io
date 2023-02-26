@@ -4,20 +4,24 @@
   <url>
     <loc>/</loc>
   </url><url>
+    <loc>/aboutme/</loc>
+  </url><url>
+    <loc>/career/</loc>
+  </url><url>
+    <loc>/contact/</loc>
+  </url><url>
     <loc>/articles/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/contact/</loc>
-  </url><url>
-    <loc>/projects/math-brain-trainer/</loc>
-  </url><url>
-    <loc>/neurodiversity/</loc>
-  </url><url>
-    <loc>/projects/</loc>
+    <loc>/projects/rigra-interactive-survey/</loc>
   </url><url>
     <loc>/articles/article/</loc>
   </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/projects/</loc>
+  </url><url>
+    <loc>/neurodiversity/</loc>
   </url>
 </urlset>
